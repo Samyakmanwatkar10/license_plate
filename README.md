@@ -252,7 +252,7 @@ names: ['license_plate']
 
 Below is a video demonstrating the project in action, showing license plate detection and text extraction on `demo.mp4`:
 
-\[[Insert video here\](https://github.com/Samyakmanwatkar10/license_plate/blob/main/demo.mp4)]
+[Watch Project Demo]([<Insert-Google-Drive-Link-Here>](https://drive.google.com/file/d/1kvpXZtPyHyYHnqT_MhFvgVxci_wuFJNZ/view?usp=drive_link))
 
 ## Additional Information
 
