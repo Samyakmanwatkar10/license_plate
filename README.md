@@ -252,29 +252,7 @@ names: ['license_plate']
 
 Below is a video demonstrating the project in action, showing license plate detection and text extraction on `demo.mp4`:
 
-\[Insert video here\]
-
-**To Add the Video**:
-
-- **Option 1: Host on YouTube/Vimeo**: Upload the video to YouTube or Vimeo and embed it using a Markdown link:
-
-  ```markdown
-  [![Project Demo](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
-  ```
-
-  Replace `<VIDEO_ID>` with the YouTube video ID.
-
-- **Option 2: Host on GitHub**: If your project is in a GitHub repository, place the video in the repository (e.g., in a `media/` directory) and link it:
-
-  ```markdown
-  ![Project Demo](media/demo_execution.mp4)
-  ```
-
-- **Option 3: External Link**: Upload the video to a file-sharing service (e.g., Google Drive, Dropbox) and add a link:
-
-  ```markdown
-  [Watch Project Demo](<link-to-video>)
-  ```
+\[[Insert video here\](https://github.com/Samyakmanwatkar10/license_plate/blob/main/demo.mp4)]
 
 ## Additional Information
 
