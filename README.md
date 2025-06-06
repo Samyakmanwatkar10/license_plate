@@ -1,3 +1,5 @@
+![Project Demo](https://github.com/Samyakmanwatkar10/license_plate/blob/main/CarPlate.gif)
+
 # License Plate Detection and Recognition Project
 
 ## Overview
