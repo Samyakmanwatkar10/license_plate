@@ -117,7 +117,7 @@ Contains helper functions for OCR, saving results, and drawing bounding boxes.
 1. **Clone or Set Up the Project Directory**: Ensure your project directory matches the structure shown above. If you’re using a repository, clone it:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Samyakmanwatkar10/license_plate.git)
    cd license_plate
    ```
 
