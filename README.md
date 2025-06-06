@@ -1,5 +1,3 @@
-![Project Demo](https://github.com/Samyakmanwatkar10/license_plate/blob/main/CarPlate.gif)
-
 # License Plate Detection and Recognition Project
 
 ## Overview
@@ -206,7 +204,7 @@ Contains helper functions for OCR, saving results, and drawing bounding boxes.
 
    - The script will display the video with detected license plates and save the results to `outputs/results.csv`.
    - Press `q` to quit the video display.
-
+![Project Demo](https://github.com/Samyakmanwatkar10/license_plate/blob/main/CarPlate.gif)
 ## Dataset Extraction
 
 The dataset is provided in `data.zip`, which contains the following structure:
